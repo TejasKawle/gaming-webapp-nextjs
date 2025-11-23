@@ -33,7 +33,7 @@ Used to demonstrate multi-level routing, enabling URLs such as:
 
 Catch-all routes allow the app to handle unlimited nested paths without manually creating each route.
 
- Tech Stack
+🧱 Tech Stack
 
 Next.js 14+ (App Router or Pages Router)
 
@@ -59,7 +59,7 @@ Example structure (Pages Router version):
 /data
   games.ts         // Game objects and metadata
 
-How Catch-All Routes Work
+🧩 How Catch-All Routes Work
 
 In Next.js, a catch-all route uses:
 
